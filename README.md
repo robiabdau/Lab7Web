@@ -10,9 +10,15 @@ Dosen     : Agung Nugroho,S.Kom.,M.Kom
 
 **Tampilan Program PHP Sederhana**
 
+Tampilan Awal:
+
 ![1](https://user-images.githubusercontent.com/81896427/117685125-d2f49600-b1df-11eb-8da6-3cbd87d81eb4.png)
 
+Tampilan Pengisian Data:
+
 ![2](https://user-images.githubusercontent.com/81896427/117685175-e0118500-b1df-11eb-9d51-caaa21dfb8e9.png)
+
+Tampilan Output:
 
 ![3](https://user-images.githubusercontent.com/81896427/117685226-eb64b080-b1df-11eb-8bf0-979b9e31c541.png)
 
